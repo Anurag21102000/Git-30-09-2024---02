@@ -3,11 +3,11 @@ public class Largest {
     public static void main(String[] args) {
 
         double n1 = -4.5, n2 = 3.9, n3 = 2.5;
-
+<<<<<<< HEAD
         double s,df,g,g;         
-
+=======
         int a,s,d,f,g;      
-
+>>>>>>> anotherbranch
         if( n1 >= n2 && n1 >= n3)
             System.out.println(n1 + " is the largest number.");
 
